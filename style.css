@@ -3,13 +3,11 @@ body {
 }
 
 .titulo-principal {
-	padding: 30px;
+	padding-left: 20px;
 
 }
-.principal {
-	background-color: #ccccccb2;
-	padding-left: 20px;
-	
+
+
 #banner {
 	width:100%;
 }
@@ -19,8 +17,8 @@ body {
 	padding: 30px;
 }
 
-h1 {
-	text-align: center
+.titulo-centralizado {
+	text-align: center;
 }
 
 p {
@@ -44,9 +42,7 @@ em strong {
 	padding: 20px;
 }
 
-h2 {
-	text-align: center;
-}
+
 ul {
 	display: inline-block;
 	vertical-align: top;
