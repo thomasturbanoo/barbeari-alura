@@ -2,6 +2,14 @@ body {
 	
 }
 
+.titulo-principal {
+	padding: 30px;
+
+}
+.principal {
+	background-color: #ccccccb2;
+	padding-left: 20px;
+	
 #banner {
 	width:100%;
 }
